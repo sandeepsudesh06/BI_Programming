@@ -12,7 +12,7 @@ Here, we are analyzing different aspects of Diabetes in the Pima tribe by doing
  -  Importing the Data.
  -  Exploratory Data Analysis.
  -  Model Training.
-  -- Two Models were used : Logistic Regression and Random Forest Classifier.
+ -     Two Models were used : Logistic Regression and Random Forest Classifier.
 
 
 ### Data Dictionary-
