@@ -8,10 +8,11 @@ A few years ago research was done on a tribe in America which is called the Pima
 
 ### Objective-
 Here, we are analyzing different aspects of Diabetes in the Pima tribe by doing 
- -  Exploratory Data Analysis
- -  Data Exploration
- -  Model Spliting, Fitting and Training.
- -  Two Models were used : Logistic Regression and Random Forest Classifier.
+ -  Importing Necessary Libraries.
+ -  Importing the Data.
+ -  Exploratory Data Analysis.
+ -  Model Training.
+  -- Two Models were used : Logistic Regression and Random Forest Classifier.
 
 
 ### Data Dictionary-
@@ -30,7 +31,7 @@ The dataset has the following information:
 
 
 ### Conclusion:
--The Random Forest model performed better than the Logistic Regression model.
--The Random Forest model had a higher accuracy score on both the training set 83% and the testing set 78% compared to the Logistic Regression model which had an accuracy score of 76% on the training set and 75% on the test set.
+-  The Random Forest model performed better than the Logistic Regression model.
+-  The Random Forest model had a higher accuracy score on both the training set 83% and the testing set 78% compared to the Logistic Regression model which had an accuracy score of 76% on the training set and 75% on the test set.
 
-I have attached the .ipynb file and the required diabetes.csv file for you further references.
+-  I have attached the .ipynb file and the required diabetes.csv file for you further references.
